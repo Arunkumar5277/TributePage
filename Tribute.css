@@ -1,0 +1,21 @@
+body{
+    background-color: lightgray;
+
+}
+.container1{
+    text-align: center;
+}
+.container1 h1{
+    color: blue;
+}
+.container1 h3{
+    color: green;
+    font-style: italic;
+}
+img{
+    width: 200px;
+    height: 230px;
+}
+#id1{
+    color: orange;
+}
